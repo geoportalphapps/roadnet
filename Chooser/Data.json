@@ -1,0 +1,165 @@
+[
+   
+	{
+        name: 'National Road',
+        thumb: 'natnl.png',
+        url: 'national',
+		tooltip:'National Road',
+		province:'Surigao del Sur'
+		
+    },	
+	{
+        name: 'Provincial Road',
+        thumb: 'provincial.png',
+        url: 'provincial',
+		tooltip:'Provincial Road',	
+		province:'Surigao del Sur'
+    },	
+	{
+        name: 'City Road',
+        thumb: 'city.png',
+        url: 'city',
+		tooltip:'City Road',	
+		province:'Surigao del Sur'
+    },	
+	{
+        name: 'Municipal Road',
+        thumb: 'municipal.png',
+        url: 'municipal',
+		tooltip:'Municipal Road',
+		province:'Surigao del Sur'		
+    },	
+	{
+        name: 'Barangay Road',
+        thumb: 'brgy.png',
+        url: 'brgy',
+		tooltip:'Barangay Road',
+		province:'Surigao del Sur'		
+		
+    },	
+	{
+        name: 'Private Road',
+        thumb: 'private.png',
+        url: 'private',
+		tooltip:'Private Road',
+		province:'Surigao del Sur'	
+    },	
+	{
+        name: 'Company Road',
+        thumb: 'company.png',
+        url: 'company',
+		tooltip:'Company Road',
+		province:'Surigao del Sur'	
+    },	
+	{
+        name: 'NIA Road',
+        thumb: 'NIA.png',
+        url: 'nia',
+		tooltip:'NIA Road',
+		province:'Surigao del Sur'	
+    },	
+	{
+        name: 'Farm to Market Road',
+        thumb: 'FMR.png',
+        url: 'fmr',
+		tooltip:'Farm to market road',
+		province:'Surigao del Sur'
+    },	
+	{
+        name: 'Provincial Road',
+        thumb: 'provincial.png',
+        url: 'provincial',
+		tooltip:'Provincial Road',	
+		province:'Surigao del Norte'
+    },	
+	{
+        name: 'National Road',
+        thumb: 'natnl.png',
+        url: 'national',
+		tooltip:'National Road',
+		province:'Agusan del Sur'
+		
+    },	
+	{
+        name: 'Provincial Road',
+        thumb: 'provincial.png',
+        url: 'provincial',
+		tooltip:'Provincial Road',	
+		province:'Agusan del Sur'
+    },	
+	{
+        name: 'City Road',
+        thumb: 'city.png',
+        url: 'city',
+		tooltip:'City Road',	
+		province:'Agusan del Sur'
+    },	
+	{
+        name: 'Municipal Road',
+        thumb: 'municipal.png',
+        url: 'municipal',
+		tooltip:'Municipal Road',
+		province:'Agusan del Sur'		
+    },	
+	{
+        name: 'Barangay Road',
+        thumb: 'brgy.png',
+        url: 'brgy',
+		tooltip:'Barangay Road',
+		province:'Agusan del Sur'		
+		
+    },	
+	{
+        name: 'Private Road',
+        thumb: 'private.png',
+        url: 'private',
+		tooltip:'Private Road',
+		province:'Agusan del Sur'	
+    },	
+	
+	{
+        name: 'National Road',
+        thumb: 'natnl.png',
+        url: 'national',
+		tooltip:'National Road',
+		province:'Siquijor'
+		
+    },	
+	{
+        name: 'Provincial Road',
+        thumb: 'provincial.png',
+        url: 'provincial',
+		tooltip:'Provincial Road',	
+		province:'Siquijor'
+    },	
+	
+	{
+        name: 'Municipal Road',
+        thumb: 'municipal.png',
+        url: 'municipal',
+		tooltip:'Municipal Road',
+		province:'Siquijor'		
+    },	
+	{
+        name: 'Barangay Road',
+        thumb: 'brgy.png',
+        url: 'brgy',
+		tooltip:'Barangay Road',
+		province:'Siquijor'		
+		
+    },	
+	{
+        name: 'Private Road',
+        thumb: 'private.png',
+        url: 'private',
+		tooltip:'Private Road',
+		province:'Siquijor'	
+    },	
+	
+	
+	
+]
+
+
+
+
